@@ -4,7 +4,7 @@ let guessbutton;
 let attempts = 0;
 let hint = "S _ _ _ _"
 
-let words = {}
+let words = []
 function setup(){
     createCanvas(800,700);
     background("grey");
