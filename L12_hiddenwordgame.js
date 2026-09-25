@@ -7,7 +7,7 @@ function setup(){
     guessvalue = createInput();
     guessvalue.position(width/2-200,height/2+50);
 
-
+    
 
 }
 
