@@ -27,7 +27,7 @@ function draw(){
 
 function updateText(){
     print("hello")
-    
+    attempts = attempts+1;
 
 
 }
