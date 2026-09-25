@@ -4,6 +4,7 @@ let guessbutton;
 function setup(){
     createCanvas(800,700);
     background("grey");
+    
     guessvalue = createInput();
     guessvalue.position(width/2-150,height/2+50);
 
@@ -14,7 +15,7 @@ function setup(){
 function draw(){
     background("grey");
     textSize(60);
-    text("Guess the hidden word!",)
+    text("Guess the hidden word!",width/2)
 
 
 }
