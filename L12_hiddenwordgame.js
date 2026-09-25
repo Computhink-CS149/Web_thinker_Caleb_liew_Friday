@@ -2,7 +2,7 @@ let guessvalue;
 let guessbutton;
 
 let attempts = 0;
-let hint;
+let hint = "S "
 function setup(){
     createCanvas(800,700);
     background("grey");
