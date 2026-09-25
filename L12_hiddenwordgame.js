@@ -19,8 +19,8 @@ function draw(){
     background("grey");
     textSize(50);
     fill(0);
-    text("Guess the hidden word!",width/2,200);
-    text("Attempts:" + attempts, width/2,230);
+    text("Guess the hidden word!",width/2,100);
+    text("Attempts:" + attempts, width/2,140);
 
 }
 
