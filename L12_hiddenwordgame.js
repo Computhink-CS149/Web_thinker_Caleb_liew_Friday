@@ -13,8 +13,8 @@ function setup(){
 
 function draw(){
     background("grey");
-    textSize
-
+    textSize(60);
+    text()
 
 
 }
