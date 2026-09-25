@@ -18,6 +18,7 @@ function setup(){
     guessbutton.mousePressed(updateText);
 
     hiddenword = random(words);
+    print(hiddenword);
 }
 
 function draw(){
