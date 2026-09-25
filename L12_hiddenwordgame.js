@@ -10,12 +10,13 @@ function setup(){
 
     guessbutton = createButton("Guess");
     guessbutton.position(width/2+50,height/2+50);
+    
 }
 
 function draw(){
     background("grey");
     textSize(50);
-    fill(255);
+    fill(0);
     text("Guess the hidden word!",width/2,200);
 
 
