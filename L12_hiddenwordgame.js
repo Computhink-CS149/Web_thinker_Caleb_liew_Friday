@@ -12,10 +12,12 @@ function setup(){
     textAlign(CENTER,CENTER);
     guessvalue = createInput();
     guessvalue.size(150,30);
-    guessvalue.style("font-size",)
+    guessvalue.style("font-size","20px");
     guessvalue.position(width/2-150,height/2-75);
 
     guessbutton = createButton("Guess");
+
+    
     guessbutton.position(width/2+50,height/2-75);
     guessbutton.mousePressed(updateText);
 
