@@ -4,7 +4,7 @@ let guessbutton;
 function setup(){
     createCanvas(800,700);
     background("grey");
-    
+    textAlign(CENTER,CENTER);
     guessvalue = createInput();
     guessvalue.position(width/2-150,height/2+50);
 
