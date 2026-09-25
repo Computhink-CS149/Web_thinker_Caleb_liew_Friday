@@ -11,6 +11,7 @@ function setup(){
     background("grey");
     textAlign(CENTER,CENTER);
     guessvalue = createInput();
+    guessvalue
     guessvalue.position(width/2-150,height/2-75);
 
     guessbutton = createButton("Guess");
