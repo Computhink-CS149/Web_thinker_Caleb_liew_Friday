@@ -75,7 +75,7 @@ function updatetext(){
     template = template.replace("{adv}", adverb.value())
     template = template.replace("{place}", place.value())
 storytext = template;
-                    }
+}
 
 // let textbox,colorbox;
 // let updatetext;
