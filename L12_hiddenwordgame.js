@@ -10,7 +10,7 @@ function setup(){
 
     guessbutton = createButton("Guess");
     guessbutton.position(width/2+50,height/2+50);
-    guessbutton.mousePressed(U)
+    guessbutton.mousePressed(updateText);
 }
 
 function draw(){
@@ -18,6 +18,13 @@ function draw(){
     textSize(50);
     fill(0);
     text("Guess the hidden word!",width/2,200);
+
+
+}
+
+
+function updateText(){
+    
 
 
 }
