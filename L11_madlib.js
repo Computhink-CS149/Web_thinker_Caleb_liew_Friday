@@ -52,6 +52,7 @@ function draw(){
     text("Enter a adverb",width/2,109);
     text("Enter a place",width/2,134);
     textAlign(CENTER,CENTER);
+    FileList()
     text(storytext,width/2,300);
 }
 
