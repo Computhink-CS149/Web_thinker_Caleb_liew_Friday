@@ -1,10 +1,10 @@
-let guess
+let guessvalue;
 
 
 function setup(){
     createCanvas(800,700);
     background("grey");
-
+    
 
 }
 
