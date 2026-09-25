@@ -2,7 +2,7 @@ let guessvalue;
 let guessbutton;
 
 let attempts = 0;
-let hint = "S "
+let hint = "S _ _ _ _"
 function setup(){
     createCanvas(800,700);
     background("grey");
@@ -21,6 +21,8 @@ function draw(){
     fill(0);
     text("Guess the hidden word!",width/2,100);
     text("Attempts:" + attempts, width/2,150);
+    text("")
+
 
 }
 
