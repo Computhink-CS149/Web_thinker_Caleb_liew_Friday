@@ -20,7 +20,7 @@ function draw(){
     textSize(50);
     fill(0);
     text("Guess the hidden word!",width/2,100);
-    text("Attempts:" + attempts, width/2,150);
+    text("Attempts: " + attempts, width/2,150);
     text(hint,width/2,200)
 
 
