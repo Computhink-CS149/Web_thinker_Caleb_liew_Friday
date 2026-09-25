@@ -1,7 +1,7 @@
 let guessvalue;
 let guessbutton;
 
-let no
+let attempt
 
 function setup(){
     createCanvas(800,700);
