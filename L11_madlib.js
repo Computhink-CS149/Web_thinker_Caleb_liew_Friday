@@ -46,6 +46,7 @@ function draw(){
     textAlign(RIGHT,CENTER);
     textSize(18);
 
+    fill("")
     text("Enter a noun",width/2,34);
     text("Enter a verb",width/2,59);
     text("Enter a adjective",width/2,84);
