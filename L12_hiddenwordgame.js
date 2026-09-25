@@ -1,6 +1,8 @@
 let guessvalue;
 let guessbutton;
 
+let no
+
 function setup(){
     createCanvas(800,700);
     background("grey");
