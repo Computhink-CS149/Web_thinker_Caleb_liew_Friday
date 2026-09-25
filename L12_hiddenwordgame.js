@@ -15,7 +15,7 @@ function setup(){
 function draw(){
     background("grey");
     textSize(60);
-    text("Guess the hidden word!",width/2)
+    text("Guess the hidden word!",width/2,200);
 
 
 }
