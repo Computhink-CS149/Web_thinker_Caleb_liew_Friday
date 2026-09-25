@@ -70,7 +70,7 @@ function updatetext(){
     // print()
     let template = random(storytemplates);
     template = template.replace("{noun}", noun.value())
-                        .replace("{verb}", verb.value())
+        .replace("{verb}", verb.value())
                         .replace("{adj}", adjective.value())
                         .replace("{adv}", adverb.value())
                         .replace("{place}", place.value())
