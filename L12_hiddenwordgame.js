@@ -24,7 +24,7 @@ function draw(){
 
 
 function updateText(){
-    
+    print("hello")
 
 
 }
