@@ -12,7 +12,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     guessvalue = createInput();
     guessvalue.size(150,30);
-    guessvalue.style()
+    guessvalue.style("font-size",)
     guessvalue.position(width/2-150,height/2-75);
 
     guessbutton = createButton("Guess");
