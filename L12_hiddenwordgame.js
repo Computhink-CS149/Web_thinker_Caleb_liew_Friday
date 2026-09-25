@@ -1,5 +1,5 @@
 let guessvalue;
-
+let guessbutton;
 
 function setup(){
     createCanvas(800,700);
@@ -7,7 +7,7 @@ function setup(){
     guessvalue = createInput();
     guessvalue.position(width/2-200,height/2+50);
 
-    
+    guessbutton = createButton()
 
 }
 
