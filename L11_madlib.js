@@ -1,11 +1,7 @@
 let noun;
-
 let verb;
-
 let adjective;
-
 let adverb;
-
 let place;
 
 let story;
