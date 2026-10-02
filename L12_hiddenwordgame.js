@@ -22,6 +22,7 @@ function setup(){
     guessbutton.mousePressed(updateText);
 
     hiddenword = random(words);
+    hiddenword
     print(hiddenword);
 }
 
