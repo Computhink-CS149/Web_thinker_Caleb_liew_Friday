@@ -24,6 +24,8 @@ function setup(){
     hiddenword = random(words);
     hiddenword = hiddenword.toUpperCase();
     print(hiddenword);
+
+
 }
 
 function draw(){
