@@ -7,6 +7,8 @@ let hint = "S _ _ _ _"
 
 let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "giant", "habit", "image", "jelly"];
 let hiddenword;
+
+let message;
 function setup(){
     createCanvas(800,700);
     background("grey");
