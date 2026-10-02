@@ -75,13 +75,10 @@ function getCorrectLetter(guess,hiddenword){
     for(let aLetter of guess){
         if (hiddenword.includes(aLetter)){
             if(!matchedLetter.includes(aLetter)){
-
                 
+
             }
-
-
         }
-
 }
 return matchedLetter;
 
