@@ -54,7 +54,7 @@ function updateText(){
     let guess = guessvalue.value();
     guess = guess.toUpperCase()
     if (guess === hiddenword){
-        let message = ("You won! You've guessed the word.");
+        message = ("You won! You've guessed the word.");
         print(message);
     }
     else{
