@@ -64,7 +64,7 @@ function updateText(){
         print(message);
     }
     else if(guess,length>5){
-        ultraExtraHints = "You must type a "
+        ultraExtraHints = "You must type a 5 letter word"
 
     }
     else{
