@@ -50,7 +50,7 @@ function generateHint(aWord){
 function updateText(){
     print("hello")
     let guess = guessvalue.value();
-    
+    guess = guess.toUpperCase()
     attempts = attempts+1;
 
 
