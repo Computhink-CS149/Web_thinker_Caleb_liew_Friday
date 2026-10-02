@@ -61,6 +61,8 @@ function updateText(){
     }
     else{
         attempts++;
+
+        
     }
 
 }
