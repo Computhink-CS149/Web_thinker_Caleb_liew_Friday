@@ -9,6 +9,8 @@ let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "giant", "ha
 let hiddenword;
 
 let message = "";
+
+let ultra
 function setup(){
     createCanvas(800,700);
     background("grey");
