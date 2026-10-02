@@ -41,7 +41,7 @@ function draw(){
 
 function generateHint(aWord){
     return aWord[0];
-    let partial = " _".repeat(aWord.length-1)
+    let partial = " _".repeat(aWord.length-1);
 
 }
 
