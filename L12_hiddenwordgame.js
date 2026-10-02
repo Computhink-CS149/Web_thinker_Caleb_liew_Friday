@@ -48,10 +48,9 @@ function generateHint(aWord){
 
 
 function updateText(){
-    print("hello")
+    // print("hello")
     let guess = guessvalue.value();
     guess = guess.toUpperCase()
-    attempts = attempts+1;
     if (guess === hiddenword){
         message = ("You won! You've guessed the word.");
         print(message);
