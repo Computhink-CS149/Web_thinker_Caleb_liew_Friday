@@ -52,6 +52,6 @@ function updateText(){
     let guess = guessvalue.value();
     guess = guess.toUpperCase()
     attempts = attempts+1;
-
+    if (guess === hiddenword)
 
 }
