@@ -22,7 +22,7 @@ function setup(){
     guessbutton.mousePressed(updateText);
 
     hiddenword = random(words);
-    hiddenword = hiddenword
+    hiddenword = hiddenword.toUpperCase()
     print(hiddenword);
 }
 
