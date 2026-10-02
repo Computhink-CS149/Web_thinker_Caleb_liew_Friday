@@ -71,8 +71,11 @@ function updateText(){
 }
 
 function getCorrectLetter(guess,hiddenword){
-    let matchedLetter= ""
-    
+    let matchedLetter= "";
+    for(let aLetter of inputValue){
+        
+
+    }
 
 
 }
