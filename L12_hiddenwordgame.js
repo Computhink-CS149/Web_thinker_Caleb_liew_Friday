@@ -5,7 +5,7 @@ let guessbutton;
 let attempts = 0;
 let hint = "S _ _ _ _"
 
-let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "giant", "habit", "image", "jelly"];
+let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "giant", "habit", "image", "rates"];
 let hiddenword;
 
 let message = "";
@@ -75,7 +75,7 @@ function getCorrectLetter(guess,hiddenword){
     for(let aLetter of guess){
         if (hiddenword.includes(aLetter)){
             if(!matchedLetter.includes(aLetter)){
-                matchedLetter = matchedLetter+ aLetter+", ";
+                matchedLetter = matchedLetter+ aLetter+" ";
 
             }
         }
