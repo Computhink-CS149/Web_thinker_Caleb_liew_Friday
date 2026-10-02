@@ -43,7 +43,6 @@ function draw(){
     
     textSize(35);
     text(message,width/2,550);
-
     text(ultraExtraHints,width/2,550);
 
 }
