@@ -39,7 +39,7 @@ function draw(){
 
 }
 
-function generateHint(aword){
+function generateHint(aWord){
 
 
 
