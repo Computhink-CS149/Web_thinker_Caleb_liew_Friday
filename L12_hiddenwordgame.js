@@ -5,7 +5,7 @@ let guessbutton;
 let attempts = 0;
 let hint = "S _ _ _ _"
 
-let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "bakes", "range", "later", "rates"];
+let words = ["audio", "beach", "cable", "dance" , "earth", "flame", "stale", "range", "later", "rates"];
 let hiddenword;
 
 let message = "";
