@@ -40,7 +40,7 @@ function draw(){
 }
 
 function generateHint(aWord){
-return aWord[0]
+    return aWord[0];
 
 
 }
