@@ -63,6 +63,10 @@ function updateText(){
         ultraExtraHints = "";
         print(message);
     }
+    else if(guess,length>5){
+
+
+    }
     else{
         attempts++;
         ultraExtraHints = getCorrectLetter(guess,hiddenword);
