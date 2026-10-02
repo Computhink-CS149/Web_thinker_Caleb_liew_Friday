@@ -56,7 +56,7 @@ function updateText(){
         print(message);
     }
     else{
-        attempts++
+        attempts++;
     }
 
 }
