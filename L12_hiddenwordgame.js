@@ -10,7 +10,7 @@ let hiddenword;
 
 let message = "";
 
-let ultra
+let ultraExtraHints = ""
 function setup(){
     createCanvas(800,700);
     background("grey");
