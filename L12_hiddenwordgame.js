@@ -80,6 +80,6 @@ function getCorrectLetter(guess,hiddenword){
             }
         }
 }
-return matchedLetter;
+return "Wrong! But found these letters, "+matchedLetter;
 
 }
