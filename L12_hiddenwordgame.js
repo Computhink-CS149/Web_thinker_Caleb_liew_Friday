@@ -54,7 +54,8 @@ function updateText(){
     attempts = attempts+1;
     if (guess === hiddenword){
         message = ("You won! You've guessed the word.");
-        print(message)
+        print(message);
     }
+    else()
 
 }
