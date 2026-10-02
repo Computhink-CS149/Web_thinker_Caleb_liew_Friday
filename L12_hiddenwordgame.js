@@ -39,7 +39,7 @@ function draw(){
     text("Attempts: " + attempts, width/2,150);
     text(hint,width/2,200);
     
-    
+    textSize(35);
     text(message,width/2,550);
 
 }
