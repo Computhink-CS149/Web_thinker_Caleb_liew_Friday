@@ -56,6 +56,8 @@ function updateText(){
         message = ("You won! You've guessed the word.");
         print(message);
     }
-    else()
+    else{
+        attempts++
+    }
 
 }
