@@ -69,7 +69,7 @@ function updateText(){
 }
 
 function getCorrectLetter(guess,hiddenword){
-    let correctletters = "";
+    
     
 
 
