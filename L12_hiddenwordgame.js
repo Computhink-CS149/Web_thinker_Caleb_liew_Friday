@@ -76,6 +76,6 @@ function getCorrectLetter(guess,hiddenword){
 
 
     }
-return 
+return matchedLetter;
 
 }
