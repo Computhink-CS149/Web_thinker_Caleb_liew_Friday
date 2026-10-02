@@ -53,7 +53,7 @@ function updateText(){
     guess = guess.toUpperCase()
     attempts = attempts+1;
     if (guess === hiddenword){
-        message = 
+        message = "You won! You"
 
     }
 
