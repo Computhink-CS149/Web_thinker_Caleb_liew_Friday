@@ -39,6 +39,12 @@ function draw(){
 
 }
 
+function generateHint(){
+
+
+    
+}
+
 
 function updateText(){
     print("hello")
