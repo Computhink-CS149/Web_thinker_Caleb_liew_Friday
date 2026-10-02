@@ -36,7 +36,7 @@ function draw(){
     text("Guess the hidden word!",width/2,100);
     text("Attempts: " + attempts, width/2,150);
     text(hint,width/2,200);
-    
+    text()
 
 }
 
@@ -52,7 +52,7 @@ function updateText(){
     let guess = guessvalue.value();
     guess = guess.toUpperCase()
     if (guess === hiddenword){
-        message = ("You won! You've guessed the word.");
+        let message = ("You won! You've guessed the word.");
         print(message);
     }
     else{
