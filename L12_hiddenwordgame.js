@@ -34,7 +34,7 @@ function draw(){
     fill(0);
     text("Guess the hidden word!",width/2,100);
     text("Attempts: " + attempts, width/2,150);
-    text(hint+ "_ _ _ _",width/2,200)
+    text(hint+ " _ _ _ _",width/2,200)
 
 
 }
