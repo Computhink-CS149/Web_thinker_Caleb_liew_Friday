@@ -65,3 +65,8 @@ function updateText(){
     }
 
 }
+
+function getCorrectLetter(guess,hiddenword){
+    
+
+}
