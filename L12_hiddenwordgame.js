@@ -49,7 +49,7 @@ function generateHint(aWord){
 
 function updateText(){
     print("hello")
-    let 
+    let guess = guessvalue
     attempts = attempts+1;
 
 
