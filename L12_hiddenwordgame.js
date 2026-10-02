@@ -25,7 +25,7 @@ function setup(){
     hiddenword = hiddenword.toUpperCase();
     print(hiddenword);
 
-    hint = generateHint()
+    hint = generateHint(hiddenword);
 }
 
 function draw(){
