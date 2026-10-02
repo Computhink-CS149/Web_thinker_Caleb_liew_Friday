@@ -64,7 +64,7 @@ function updateText(){
         print(message);
     }
     else if(guess,length>5){
-        
+        ultraExtraHints
 
     }
     else{
