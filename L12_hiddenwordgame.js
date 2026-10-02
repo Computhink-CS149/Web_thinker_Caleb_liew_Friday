@@ -65,7 +65,7 @@ function updateText(){
     }
     else{
         attempts++;
-        getCorrectLetter(guess,hiddenword);
+        ultraExtraHints = getCorrectLetter(guess,hiddenword);
     }
 
 }
