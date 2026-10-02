@@ -49,6 +49,7 @@ function generateHint(aWord){
 
 function updateText(){
     print("hello")
+    let 
     attempts = attempts+1;
 
 
