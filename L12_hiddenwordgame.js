@@ -73,9 +73,9 @@ function updateText(){
 function getCorrectLetter(guess,hiddenword){
     let matchedLetter= "";
     for(let aLetter of inputValue){
-        
+
 
     }
-
+return 
 
 }
