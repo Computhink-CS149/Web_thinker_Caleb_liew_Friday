@@ -42,7 +42,7 @@ function setup(){
 function shuffleWord(){
     let arraySome = someWord.spilt("");
     for (let i = arraySome.length-1; i > 0; i--);
-    
+        let j = floor(random)
     return("");
 }
 function pickNewWord(){
