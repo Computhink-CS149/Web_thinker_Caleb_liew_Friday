@@ -23,9 +23,12 @@ function setup(){
     scramble.style("font-size","20px");
 
     sub = createButton("Sumbit");
-    sub.position(width/2+400,height-350);
+    sub.position(width/2+200,height-350);
     sub.size(200,40);
     sub.style("font-size","20px");
+
+
+    
 }
 function draw(){
     textSize(50);
