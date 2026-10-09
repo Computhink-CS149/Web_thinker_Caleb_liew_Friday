@@ -41,7 +41,7 @@ function setup(){
 }
 function shuffleWord(){
     let arraySome = someWord.spilt("");
-    for (let i = arraySome.length-1;i>0;i--
+    for (let i = arraySome.length-1 ; i > 0; i--);
     
     return("");
 }
