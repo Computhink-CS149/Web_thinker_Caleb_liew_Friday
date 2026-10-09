@@ -17,7 +17,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 
     scramble = createInput("Rescramble");
-    scramble.position(width/2,heith)
+    scramble.position(width/2,height-400)
 
 }
 function draw(){
