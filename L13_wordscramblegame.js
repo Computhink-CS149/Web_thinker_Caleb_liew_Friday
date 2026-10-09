@@ -1,6 +1,7 @@
 
 
-const WORDS = ["uncharacteristically","unbelievability",
+const WORDS = ["uncharacteristically",
+    "unbelievability",
     "chimpanzee",
     "organisation",
     "environment",
