@@ -39,5 +39,5 @@ function draw(){
     text("Random Word: " + hiddenword,width/2,height-500);
 
     text("Score: " + score);
-    text("Streak: " + )
+    text("Streak: " + streak + "")
 }
