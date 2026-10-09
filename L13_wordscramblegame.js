@@ -19,7 +19,7 @@ function setup(){
 
     scramble = createButton("Rescramble");
     scramble.position(width/2-300,height-400);
-    scramble.size(150,36);
+    scramble.size(200,40);
     scramble.style("font-size","20px");
 
 }
