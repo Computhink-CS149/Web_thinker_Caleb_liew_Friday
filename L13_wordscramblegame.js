@@ -8,7 +8,7 @@ const WORDS = [
     "environment",
     "technology",
     "experience"]
-
+let
 
 
 function setup(){
