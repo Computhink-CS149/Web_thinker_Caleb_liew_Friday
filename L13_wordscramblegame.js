@@ -28,8 +28,8 @@ function setup(){
     sub.style("font-size","20px");
 
     guessinput = createButton("Rescramble");
-    scramble.position(width/2-400,height-350);
-    scramble.size(200,40);
+    guessinput.position(width/2-400,height-350);
+    guessinput.size(200,40);
     scramble.style("font-size","20px");
 
 }
