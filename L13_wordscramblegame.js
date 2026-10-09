@@ -19,6 +19,7 @@ function setup(){
 
     scramble = createButton("Rescramble");
     scramble.position(width/2-300,height-400)
+    scramble.size()
 
 }
 function draw(){
