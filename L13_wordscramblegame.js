@@ -37,4 +37,6 @@ function draw(){
     textSize(50);
     text("Word Scramble Game!",width/2,height-600);
     text("Random Word: " + hiddenword,width/2,height-500);
+
+    text()
 }
