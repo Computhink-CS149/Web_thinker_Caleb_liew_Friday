@@ -17,7 +17,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     hiddenword = "NOTEBOOK";
 
-    scramble = createInput("Rescramble");
+    scramble = createButton("Rescramble");
     scramble.position(width/2-300,height-400)
 
 }
