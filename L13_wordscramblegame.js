@@ -43,7 +43,7 @@ function pickNewWord(){
 }
 function pickNewWord(){
     hiddenword = random(WORDS);
-    
+    messedup = shuffleWord(hiddenword);
 }
 function draw(){
     textSize(50);
