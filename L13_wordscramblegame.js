@@ -16,7 +16,7 @@ function setup(){
     background(220);
     textAlign(CENTER,CENTER);
 
-    rescramble = createInput("Rescramble");
+    scramble = createInput("Rescramble");
     scramble
 
 }
