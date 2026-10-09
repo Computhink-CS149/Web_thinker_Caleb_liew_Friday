@@ -37,10 +37,10 @@ function setup(){
 }
 function pickNewWord(){
 
-    
+
 }
 function pickNewWord(){
-
+    hiddenword = random(WORDS)
 
 }
 function draw(){
