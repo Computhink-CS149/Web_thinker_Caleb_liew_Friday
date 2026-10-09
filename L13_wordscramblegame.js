@@ -58,7 +58,7 @@ function pickNewWord(){
 function draw(){
     textSize(50);
     text("Word Scramble Game!",width/2,height-600);
-    text("Random Word: " + hiddenword,width/2,height-500);
+    text("Random Word: " + messedup,width/2,height-500);
 
     textSize(28)
     text("Score: " + score, width/2,height-200);
