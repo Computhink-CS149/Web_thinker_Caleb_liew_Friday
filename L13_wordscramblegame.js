@@ -27,7 +27,7 @@ function setup(){
     sub.size(200,40);
     sub.style("font-size","20px");
 
-        scramble = createButton("Rescramble");
+    guessinput = createButton("Rescramble");
     scramble.position(width/2-400,height-350);
     scramble.size(200,40);
     scramble.style("font-size","20px");
