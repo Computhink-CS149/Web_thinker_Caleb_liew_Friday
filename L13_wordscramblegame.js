@@ -35,6 +35,11 @@ function setup(){
     guessinput.style("font-size","20px");
 
 }
+
+function pickNewWord(){
+
+    
+}
 function draw(){
     textSize(50);
     text("Word Scramble Game!",width/2,height-600);
