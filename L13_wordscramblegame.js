@@ -8,7 +8,7 @@ const WORDS = [
     "environment",
     "technology",
     "experience"]
-let hiddenword = NOTEBOOK;
+let hiddenword;
 
 
 function setup(){
@@ -16,6 +16,7 @@ function setup(){
     background(220);
     textAlign(CENTER,CENTER);
 
+    
     scramble = createInput("Rescramble");
     scramble.position(width/2-300,height-400)
 
