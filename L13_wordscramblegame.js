@@ -11,6 +11,7 @@ const WORDS = [
 let hiddenword;
 let score;
 let streak;
+let maxstreak;
 function setup(){
     createCanvas(1000,700);
     background(220);
