@@ -4,7 +4,8 @@ const WORDS = ["uncharacteristically","unbelievability",
     "chimpanzee",
     "organisation",
     "environment",
-    "technology"]
+    "technology",
+    "experience"]
 
 
 
