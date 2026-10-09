@@ -39,7 +39,7 @@ function setup(){
 }
 function pickNewWord(){
 
-
+    return("");
 }
 function pickNewWord(){
     hiddenword = random(WORDS);
