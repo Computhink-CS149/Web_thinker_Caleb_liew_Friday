@@ -24,8 +24,8 @@ function setup(){
 
     submit = createButton("Sumbit");
     submit.position(width/2,height-350);
-    sumbit.size(200,40);
-    sumbit.style("font-size","20px");
+    submbit.size(200,40);
+    submbit.style("font-size","20px");
 }
 function draw(){
     textSize(50);
