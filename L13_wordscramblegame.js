@@ -22,7 +22,7 @@ function setup(){
     scramble.size(200,40);
     scramble.style("font-size","20px");
 
-    submit = createButton("Rescramble");
+    submit = createButton("Sumbit");
     submit.position(width/2-400,height-350);
     sumbit.size(200,40);
     sumbit.style("font-size","20px");
