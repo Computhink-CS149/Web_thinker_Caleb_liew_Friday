@@ -1,6 +1,6 @@
 
 
-const WORDS
+const WORDS = ["intenctions"]
 function setup(){
     createCanvas(400,400);
     background("skyblue");
