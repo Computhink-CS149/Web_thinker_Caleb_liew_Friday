@@ -23,9 +23,9 @@ function setup(){
     scramble.style("font-size","20px");
 
     submit = createButton("Sumbit");
-    submit.position(width/2,height-350);
-    submbit.size(200,40);
-    submbit.style("font-size","20px");
+    sub.position(width/2,height-350);
+    sub.size(200,40);
+    sub.style("font-size","20px");
 }
 function draw(){
     textSize(50);
