@@ -8,7 +8,7 @@ const WORDS = [
     "environment",
     "technology",
     "experience"]
-let hiddenword = random(WORDS);
+let hiddenword;
 
 
 function setup(){
