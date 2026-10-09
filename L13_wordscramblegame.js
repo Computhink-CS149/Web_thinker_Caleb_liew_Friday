@@ -37,7 +37,7 @@ function setup(){
     guessinput.style("font-size","20px");
 
     hiddenword = pickNewWord();
-print(hiddenword);
+
 }
 function shuffleWord(){
 
