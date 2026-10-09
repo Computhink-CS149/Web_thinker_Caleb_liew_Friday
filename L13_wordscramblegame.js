@@ -35,10 +35,13 @@ function setup(){
     guessinput.style("font-size","20px");
 
 }
-
 function pickNewWord(){
 
     
+}
+function pickNewWord(){
+
+
 }
 function draw(){
     textSize(50);
