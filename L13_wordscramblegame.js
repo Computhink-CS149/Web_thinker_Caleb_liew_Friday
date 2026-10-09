@@ -43,6 +43,7 @@ function pickNewWord(){
 }
 function pickNewWord(){
     hiddenword = random(WORDS);
+    hiddenword = hiddenwp
     messedup = shuffleWord(hiddenword);
 }
 function draw(){
