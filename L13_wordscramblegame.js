@@ -28,7 +28,7 @@ function setup(){
     sub.style("font-size","20px");
 
     guessinput = createInput();
-    guessinput.position(width/2,height-350);
+    guessinput.position(width/2-100,height-350);
     guessinput.size(200,40);
     guessinput.style("font-size","20px");
 
