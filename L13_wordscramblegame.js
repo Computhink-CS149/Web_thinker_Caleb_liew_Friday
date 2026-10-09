@@ -43,7 +43,7 @@ function pickNewWord(){
 }
 function pickNewWord(){
     hiddenword = random(WORDS);
-
+    
 }
 function draw(){
     textSize(50);
