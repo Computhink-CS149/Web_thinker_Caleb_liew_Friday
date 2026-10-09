@@ -17,7 +17,7 @@ function setup(){
     background(220);
     textAlign(CENTER,CENTER);
     hiddenword = random(WORDS);
-    hiddenword = hiddenword
+    hiddenword = hiddenword.toUpperCase()
 
     scramble = createButton("Rescramble");
     scramble.position(width/2-400,height-350);
