@@ -22,6 +22,10 @@ function setup(){
     scramble.size(200,40);
     scramble.style("font-size","20px");
 
+    su = createButton("Rescramble");
+    scramble.position(width/2-400,height-350);
+    scramble.size(200,40);
+    scramble.style("font-size","20px");
 }
 function draw(){
     textSize(50);
