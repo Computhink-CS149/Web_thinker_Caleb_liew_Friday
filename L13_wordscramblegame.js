@@ -36,6 +36,7 @@ function setup(){
     guessinput.size(200,40);
     guessinput.style("font-size","20px");
 
+    hiddenword = pick
 }
 function pickNewWord(){
 
