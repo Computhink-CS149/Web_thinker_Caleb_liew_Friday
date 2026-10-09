@@ -9,7 +9,7 @@ const WORDS = [
     "technology",
     "experience"]
 let hiddenword;
-let scramble, submit
+let scramble, submit;
 
 function setup(){
     createCanvas(1000,700);
