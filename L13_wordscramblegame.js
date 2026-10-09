@@ -3,7 +3,11 @@
 const WORDS = ["uncharacteristically","unbelievability",
     "chimpanzee",
     "organisation",
-    "environment"]
+    "environment",
+    "technology"]
+
+
+
 function setup(){
     createCanvas(400,400);
     background("skyblue");
