@@ -9,7 +9,7 @@ const WORDS = [
     "technology",
     "experience"]
 let hiddenword;
-let scramble, submit;
+
 
 function setup(){
     createCanvas(1000,700);
@@ -22,7 +22,7 @@ function setup(){
     scramble.size(200,40);
     scramble.style("font-size","20px");
 
-    submit = createButton("Sumbit");
+    sub = createButton("Sumbit");
     sub.position(width/2,height-350);
     sub.size(200,40);
     sub.style("font-size","20px");
