@@ -27,8 +27,8 @@ function setup(){
     sub.size(200,40);
     sub.style("font-size","20px");
 
-    guessinput = createInput("Rescramble");
-    guessinput.position(width/2-400,height-350);
+    guessinput = createInput();
+    guessinput.position(width/2,height-350);
     guessinput.size(200,40);
     guessinput.style("font-size","20px");
 
