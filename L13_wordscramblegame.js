@@ -40,5 +40,5 @@ function draw(){
     text("Random Word: " + hiddenword,width/2,height-500);
 
     text("Score: " + score);
-    text("Streak: " + streak + "(Max: " + maxstreak + ")")
+    text("Streak: " + streak + "(Max: " + maxstreak + ")" ,width/2, );
 }
