@@ -9,9 +9,9 @@ const WORDS = [
     "technology",
     "experience"]
 let hiddenword;
-let score;
-let streak;
-let maxstreak;
+let score = 0;
+let streak = 0;
+let maxstreak = 0;
 function setup(){
     createCanvas(1000,700);
     background(220);
