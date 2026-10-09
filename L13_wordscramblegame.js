@@ -40,7 +40,7 @@ function setup(){
 
 }
 function shuffleWord(){
-
+    let arrChars = someWord
     return("");
 }
 function pickNewWord(){
