@@ -40,7 +40,7 @@ function pickNewWord(){
 
 }
 function pickNewWord(){
-    hiddenword = random(WORDS)
+    hiddenword = random(WORDS);
 
 }
 function draw(){
