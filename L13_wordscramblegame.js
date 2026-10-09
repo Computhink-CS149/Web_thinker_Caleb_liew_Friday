@@ -18,7 +18,7 @@ function setup(){
     hiddenword = "NOTEBOOK";
 
     scramble = createButton("Rescramble");
-    scramble.position(width/2-300,height-400);
+    scramble.position(width/2-400,height-450);
     scramble.size(200,40);
     scramble.style("font-size","20px");
 
