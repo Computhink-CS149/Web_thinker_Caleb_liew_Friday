@@ -13,7 +13,7 @@ let hiddenword = random(WORDS);
 
 function setup(){
     createCanvas(1000,700);
-    background("grey");
+    background(220);
     textAlign(CENTER,CENTER);
 
 
@@ -23,5 +23,5 @@ function setup(){
 function draw(){
     textSize(50);
     text("Word Scramble Game!",width/2,height-600);
-    text("Random Word: " + )
+    text("Random Word: " + hiddenword);
 }
