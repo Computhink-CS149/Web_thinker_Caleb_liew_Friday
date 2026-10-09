@@ -15,8 +15,8 @@ function setup(){
     createCanvas(1000,700);
     background(220);
     textAlign(CENTER,CENTER);
+    hiddenword = "NOTEBOOK";
 
-    
     scramble = createInput("Rescramble");
     scramble.position(width/2-300,height-400)
 
