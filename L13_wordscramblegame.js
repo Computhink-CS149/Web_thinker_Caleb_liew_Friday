@@ -1,6 +1,6 @@
 
 
-const WORDS = ["Uncharacteristically","Unbelievability",""]
+const WORDS = ["Uncharacteristically","Unbelievability","chi"]
 function setup(){
     createCanvas(400,400);
     background("skyblue");
