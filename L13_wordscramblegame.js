@@ -9,6 +9,8 @@ const WORDS = [
     "technology",
     "experience"]
 let hiddenword;
+let messedup;
+
 let score = 0;
 let streak = 0;
 let maxstreak = 0;
