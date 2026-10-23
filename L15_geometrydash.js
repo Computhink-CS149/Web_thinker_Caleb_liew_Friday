@@ -34,7 +34,7 @@ function draw(){
     fill("lime");
     rect(50,playery,playersize,playersize);
 
-    velocity += 0.01;
+    velocity += 0.1;
     playery += velocity;
 
     if (playery >= height - playersize ) {
@@ -78,7 +78,7 @@ function draw(){
 
 function keyPressed(){
     if (keyCode === 32 ){
-        velocity = -15;
+        velocity = -5;
     }
 
 }
