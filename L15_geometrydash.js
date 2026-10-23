@@ -5,7 +5,7 @@ let velocity = 0;
 let isgrounded = false;
 
 let spikesx = [];
-let spikewidth = 500;
+let spikewidth = 400;
 let spikeheight = 500;
 let spikespeed = 5;
 
