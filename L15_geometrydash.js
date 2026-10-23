@@ -25,7 +25,7 @@ function draw(){
     background("black");
     
     if (gameover){
-        
+        fill("red")
 
     }
     fill("lime");
