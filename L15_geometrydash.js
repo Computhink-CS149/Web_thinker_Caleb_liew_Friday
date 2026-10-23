@@ -34,7 +34,7 @@ function draw(){
     fill("lime");
     rect(50,playery,playersize,playersize);
 
-    velocity += 0.1;
+    velocity += 0.000001;
     playery += velocity;
 
     if (playery >= height - playersize ) {
