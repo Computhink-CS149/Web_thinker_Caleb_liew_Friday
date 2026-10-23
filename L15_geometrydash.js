@@ -1,4 +1,4 @@
-let playerx;
+let playerx = 1;
 let playery;
 let playersize = 50;
 let velocity = 0;
