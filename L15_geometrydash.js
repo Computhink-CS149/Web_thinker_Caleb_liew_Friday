@@ -28,7 +28,7 @@ function draw(){
         fill("red");
         textSize(44);
         text("GAME OVER!", width/2 , height/2);
-
+        return;
     }
     fill("lime");
     rect(50,playery,playersize,playersize);
