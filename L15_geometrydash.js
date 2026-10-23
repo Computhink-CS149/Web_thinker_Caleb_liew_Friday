@@ -9,7 +9,7 @@ let spikewidth = 30;
 let spikeheight = 50;
 let spikespeed = 5;
 
-let gameover = true;
+let gameover = false;
 function setup(){
     createCanvas(800,600);
     background("black");
@@ -27,7 +27,7 @@ function draw(){
     if (gameover){
         fill("red");
         textSize(44);
-        
+        textAlign(CENTER,CENTER);
         text("GAME OVER!", width/2 , height/2);
         return;
     }
