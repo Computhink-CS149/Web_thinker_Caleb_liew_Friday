@@ -77,7 +77,7 @@ function draw(){
 }
 
 function keyPressed(){
-    if (keyCode === 32 && isgrounded){
+    if (keyCode === 32 ){
         velocity = -15;
     }
 
