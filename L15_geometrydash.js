@@ -11,7 +11,7 @@ let spikespeed = 5;
 
 let gameover = false;
 function setup(){
-    createCanvas(1500,700);
+    createCanvas(800,600);
     background("black");
     // rectMode(CENTER);
     playery= height-75
