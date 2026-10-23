@@ -64,13 +64,15 @@ function draw(){
             spikesx[count]+spikewidth/2 ,height-spikeheight,
             spikesx[count]+spikewidth,height
         );    
-    }
+    
     if (playerx + playersize > spikesx[count] &&
         playerx < spikesx[count] + spikewidth &&
         playery + playersize > height - spikeheight
     ){
         gameover = true;
     }
+    }
+    
     
 }
 
