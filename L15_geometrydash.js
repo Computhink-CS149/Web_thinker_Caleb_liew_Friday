@@ -71,6 +71,13 @@ function draw(){
         ) {
         gameover = true;
         }
+    if (gameover){
+        fill("red");
+        textSize(44);
+        textAlign(CENTER,CENTER);
+        text("GAME OVER!", width/2 , height/2);
+        return;
+    }
     }
     
     
