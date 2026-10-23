@@ -23,6 +23,11 @@ function setup(){
 
 function draw(){
     background("black");
+    
+    if (gameover){
+        
+
+    }
     fill("lime");
     rect(50,playery,playersize,playersize);
 
