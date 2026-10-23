@@ -65,6 +65,12 @@ function draw(){
             spikesx[count]+spikewidth,height
         );    
     }
+    if (player
+        &&
+        playery + playersize > height - spikeheight
+    ){
+        gameover = true;
+    }
     
 }
 
